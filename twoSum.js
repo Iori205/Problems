@@ -12,3 +12,7 @@ const TwoSum = (array, target) => {
 console.log(TwoSum(array, 9));
 
 // 1. git clone
+// 2. ls -a
+// 3. git add .
+//  4. git commit -m "string"
+//  5. git push
